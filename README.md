@@ -1,4 +1,4 @@
-## About ACC Shortcuts
+## About ACC Autochat
 
 Application to write messages in chat while you are driving and not waste time.
 
