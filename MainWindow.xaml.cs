@@ -30,7 +30,7 @@ namespace ACC_shortcuts
     {
 
         public string macro = @"shortcuts.json";
-        public string readme = @"readme.txt";
+        public string readme = @"help.txt";
         public string process = "RRRE64"; //ACC
         public JObject jobj;
         // Instantiate a new instance
